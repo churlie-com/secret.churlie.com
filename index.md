@@ -5,3 +5,5 @@ categories: secret share shamir
 toc: true
 ---
 ## secret.churlie.com
+
+{% toc %}
