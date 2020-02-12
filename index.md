@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "POST TITLE"
+title: "Share your secrets securely"
 categories: secret share shamir
 toc: true
 ---
