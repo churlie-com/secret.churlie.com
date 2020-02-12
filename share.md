@@ -3,4 +3,4 @@ title: "Share a Secret"
 categories: secret share crypto
 toc: true
 ---
-some text
+How to split up a secret securely
